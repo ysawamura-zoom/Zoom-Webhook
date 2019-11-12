@@ -18,3 +18,9 @@ https://marketplace.zoom.us/docs/guides/tools-resources/webhooks
 3: Add webhook entry Zoom Market place.<br>
 4: Retrieve API Key and Secret from Zoom Market place.<br>
 5: Edit "webhook.php" and add API Key and Secret.<br>
+
+- Permissions<br>
+drwxrwxrwx. 2 apache apache download<br>
+-rwxr-xr-x. 1 apache apache jwt.php<br>
+-rwxrwxrwx. 1 apache apache webhook.log<br>
+-rwxrw-rw-. 1 apache apache webhook.php<br>
