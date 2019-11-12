@@ -14,7 +14,7 @@ https://marketplace.zoom.us/docs/guides/tools-resources/webhooks
 
 <b>- To do</b><br>
 1: Make sure that the Web server is runnig SSL along with PHP.<br>
-2: Copy all the files on to the server's directory.<br>
+2: Copy all the files on to the server's directory.(e.g. /var/www/html)<br>
 3: Add webhook entry Zoom Market place.<br>
 4: Retrieve API Key and Secret from Zoom Market place.<br>
 5: Edit "webhook.php" and add API Key and Secret.<br>
