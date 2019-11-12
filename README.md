@@ -1,6 +1,6 @@
 # Zoom - Webhook with API sample
 
-Sample script which receives webhook event and trigger downloading recorded file.
+Sample script which receives webhook event "recording.completed" and trigger downloading recorded file.
 
 <b>- Tested Environment</b><br>
 CentOS7<br>
