@@ -33,8 +33,8 @@ function WriteToLog($a){
 
 function DownloadFile($v){
     
-    $api_key = 'Bho3ffivQ4y7FcMKfVcB9w';                    // <----- USE YOUR KEY FROM MARKET PLACE
-    $api_secret = 'jDv7WfNHkoL4s1GkDMPV1xnHIBhjVFBwVknq';   // <----- USE YOUR SECRET FROM MARKET PLACE 
+    $api_key = '<YOUR WEB API KEY>';                // <----- USE YOUR KEY FROM MARKET PLACE
+    $api_secret = '<YOUR WEB WEB API SECRET>';      // <----- USE YOUR SECRET FROM MARKET PLACE 
     $exp = strtotime("+ 90 minutes");
     
     $obj = json_decode($v, true);
