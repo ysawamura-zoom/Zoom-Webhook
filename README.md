@@ -1,4 +1,4 @@
-# Zoom - Webhook with API sample
+# Zoom - Webhook with downloading sample
 
 Sample script which receives webhook event "recording.completed" and trigger downloading recorded file.
 
